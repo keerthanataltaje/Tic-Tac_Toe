@@ -1,0 +1,36 @@
+th,td{
+    border:1px solid black;
+    padding:10px;
+    margin:10px;
+    font-family:  'Press Start 2P', cursive;
+}
+table{
+    width:75%;
+    border:1px solid black;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:200px;
+}
+h1{
+    
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+}
+
+
+
+.button1{
+    position: absolute;
+    
+    left:30%;
+    right:70%;
+    margin:40px;
+}
+.button2{
+    position: absolute;
+    
+    left:60%;
+    right:40%; 
+    margin:40px; 
+}
